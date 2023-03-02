@@ -8,7 +8,7 @@ inbounds:
   protocol: vless
   settings:
     clients:
-    - id: "62186440-5230-4acc-a052-b1356e604275"
+    - id: "be3f831b-98cb-4c12-bf15-195908062a83"
     decryption: "none"
   streamSettings:
     network: ws
